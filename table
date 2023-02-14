@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lange="es">
+<head>
+<title> Tablas</title>
+</head>
+<body>
+<h1> Tablas</h1>
+<table border="1">
+<tr>
+<th>Nombre</th>
+<th>Apellidos</th>
+</tr>
+<tr>
+    <td> daniel</td>
+    <td> ramos</td>
+</tr>
+<tr>
+    <td> raul</td>
+    <td> lopez</td>
+</tr>
+<tr>
+    <td> juan</td>
+    <td> perez</td>
+</tr>
+</table>
+
+</body>
+</html>
