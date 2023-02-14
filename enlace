@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title> Enlaces</title>
+</head>
+<body>
+<h1>Enlaces</h1>
+<h2> Segundo titulo</h2>
+<h5> Tercer titulo </h5>
+<a href="http://google.com" target="_blank"> Mi web </a>
+<h3> Enlace vacio </h3>
+<a href=""> Enlace vacio </a>
+</body>
+</html>
