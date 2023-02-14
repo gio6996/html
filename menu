@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head> 
+<title> Menu</title>
+</head>
+<body>
+<ul>
+<li>
+<a href="index.html">Inicio</a>
+</li>
+<li>
+<a href="formulario.html">Contacto</a>
+</li>
+<li>
+<a href="imagen.html"><Imagen</a>
+</li>
+
+</ul>
+</body>
+
+</html>
