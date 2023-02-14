@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+
+</title>
+</head>
+<body>
+<h1>Video</h1>
+<video src="" controls  width="220px" height="240px">Tu navegador no soporta este video</video>
+<h2>Audio</h2>
+<audio src="" controls></audio>
+</body>
+</html>
