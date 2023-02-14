@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Mi primer web </title>
+<meta charset="utf-8">
+</head>
+<body>
+<header> 
+<img src="milogo.jpg" alt="logo">
+<h1>Imagenes</h1>
+</header>
+<section>
+<article>
+<p>
+  Java es un lenguaje de programación multiplataforma orientado a objetos
+  que se ejecuta en miles de millones de dispositivos de todo el mundo.
+  Impulsa aplicaciones, sistemas operativos de smartphones, software empresarial y muchos programas conocidos.
+  A pesar de haber sido eliminado hace más de 20 años.
+  Java es actualmente el lenguaje de programación más popular para los desarrolladores de aplicaciones.
+  Orientado a objetos: 
+  Java se encontraba entre los primeros lenguajes de programación orientados a objetos.
+  Un lenguaje de programación orientado a objetos organiza su código en torno a clases y objetos, en lugar de funciones y comandos.
+  La mayoría de los lenguajes de programación modernos, incluidos C++, C#, Python y Ruby, están orientados a objetos.
+
+</p>
+<figure> <img src="milogo.jpg" alt="logo"  width="120px" height="120px"> </figure>
+</article>
+</section>
+</body>
+</html>
