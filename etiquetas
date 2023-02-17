@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+    <meta charset="utf-8">
+        <title> Mi primera web</title>
+    </head>
+    <body> 
+    <header>
+        <h1> Mi primera Web</h1>
+    <header style="background:red;">
+    <figure><img src="milogo.jpg" width="100px" height="100px"/></figure>
+       </header>
+       <nav style="background: yellow ; color:red";>
+        <ol>
+        <li><a href="inicio.html">Inicio</a></li>
+        <li><a href="contenido.html">Contenido</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+        </ol>
+       </nav>
+       <section style="background: pink;float: left;width:80%;">
+       <article style="padding:10px;">
+        <h2> Primer articulo</h2>
+        
+        <p> <em> Java es un lenguaje de programación</em> multiplataforma <strong>orientado a objetos</strong>
+             que se ejecuta en miles de millones de dispositivos de todo el mundo.<hr/>
+              Impulsa aplicaciones, sistemas operativos de smartphones, software empresarial y muchos programas conocidos.
+               A pesar de haber sido eliminado hace más de 20 años, Java es actualmente el lenguaje de programación
+                más popular para los desarrolladores de aplicaciones.
+            </p>
+       </article>
+       <article style="padding:10px;">
+        <h2> segundo articulo</h2>
+        <p> <em> Java es un lenguaje de programación</em> multiplataforma <strong>orientado a objetos</strong>
+            que se ejecuta en miles de millones de dispositivos de todo el mundo.<hr/>
+             Impulsa aplicaciones, sistemas operativos de smartphones, software empresarial y muchos programas conocidos.
+              A pesar de haber sido eliminado hace más de 20 años, Java es actualmente el lenguaje de programación
+               más popular para los desarrolladores de aplicaciones.
+        </p>
+       </article>
+       <article style="padding:10px;">
+        <h3> tercer articulo</h3>
+        <p> <em> Java es un lenguaje de programación</em> multiplataforma <strong>orientado a objetos</strong>
+            que se ejecuta en miles de millones de dispositivos de todo el mundo.<hr/>
+             Impulsa aplicaciones, sistemas operativos de smartphones, software empresarial y muchos programas conocidos.
+              A pesar de haber sido eliminado hace más de 20 años, Java es actualmente el lenguaje de programación
+               más popular para los desarrolladores de aplicaciones.
+        </p>
+       </article>
+       </section>
+       <aside style="background: orange;float:left;width:20%;">
+       <h2> Sigueme</h2>
+       <ol>
+        <li><a href="twitter.html">twitter</a></li>
+        <li><a href="facebook.html">facebook</a></li>
+        <li><a href="Instagram.html">Instagram</a></li>
+        </ol>
+       </aside>
+       <footer style="background:blue;display:block;clear:both;height:120px;padding:10px;">
+        <blockquote>daniel ramos 2023&copy</blockquote>
+       </footer>
+    </body>
+</html>
